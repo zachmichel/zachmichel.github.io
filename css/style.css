@@ -1,0 +1,442 @@
+@font-face{
+  font-family: 'cinetype';
+  src: url('fonts/GT-Cinetype-Bold.ttf') format('truetype');
+
+}
+
+
+@media only screen and (min-width:714px){
+
+  body {
+    background-color: #edf1ff;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  a:active {
+    text-decoration: none;
+  }
+
+
+  a:link {
+    color: inherit;
+  }
+
+  a:visited {
+    color: inherit;
+  }
+
+  a:hover {
+    color: inherit;
+  }
+
+  a:active {
+    color: inherit;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .header{
+    width: 100%;
+    text-align: center;
+    margin: 3% 0% 0% 0%;
+  }
+
+  .header-item{
+    display: inline-block;
+    font-family: cinetype;
+    margin: 0% 0% 0% 0%;
+    font-size: 1rem;
+  }
+
+  .header-item:hover{
+    opacity: 0.4;
+    transition: 0.2s;
+    cursor: pointer;
+  }
+
+  .logo{
+    vertical-align: middle;
+    background-image: url("images/wyw7.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* margin: 0rem 0rem 0rem 0rem; */
+    padding: 1rem;
+    height: 6rem;
+    width: 6rem;
+    display: inline-block;
+    /* border: solid 2px black; */
+  }
+
+  .logo:hover{
+    opacity: 0.1;
+    transition: 0.2s;
+    cursor: pointer;
+  }
+
+  .logo2{
+    vertical-align: middle;
+    background-image: url("images/wyw.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* margin: 0rem 0rem 0rem 0rem; */
+    padding: 1rem;
+    height: 6rem;
+    width: 6rem;
+    display: inline-block;
+    /* border: solid 2px black; */
+  }
+
+  .logo2:hover{
+    opacity: 0.1;
+    transition: 0.2s;
+    cursor: pointer;
+  }
+
+  .logo3{
+    vertical-align: middle;
+    background-image: url("images/wyw4.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* margin: 0rem 0rem 0rem 0rem; */
+    padding: 1rem;
+    height: 6rem;
+    width: 6rem;
+    display: inline-block;
+    /* border: solid 2px black; */
+  }
+
+  .logo3:hover{
+    opacity: 0.1;
+    transition: 0.2s;
+    cursor: pointer;
+  }
+
+
+
+  .page-content{
+    margin: 12.5rem 0rem 0rem 0rem;
+    width: 100%;
+    text-align: center;
+  }
+
+
+  .page-content-music{
+    width: 100%;
+    text-align: center;
+  }
+
+  .main-image{
+    background-image: url("images/1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 1rem;
+    height: 13rem;
+    width: 26rem;
+    display: inline-block;
+    border: solid 1px black;
+  }
+
+  .main-image:hover{
+    transition: 1s;
+    opacity:0.5;
+    cursor: pointer;
+  }
+
+  .about-image{
+    background-image: url("images/9.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 1rem;
+    height: 13rem;
+    width: 26rem;
+    display: inline-block;
+    border: solid 1px black;
+  }
+
+  .about-image:hover{
+    transition: 1s;
+    opacity:0.5;
+    cursor: pointer;
+  }
+
+  .items-image{
+    background-image: url("images/14.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 1rem;
+    height: 13rem;
+    width: 26rem;
+    display: inline-block;
+    border: solid 1px black;
+  }
+
+  .items-image:hover{
+    transition: 1s;
+    opacity:0.5;
+    cursor: pointer;
+  }
+
+  .music{
+    padding: 0rem 0rem 0rem 0rem;
+    text-align: center;
+    width: 100%;
+  }
+
+  .item-1{
+    background-image: url("images/wywshirt.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40rem;
+    width: 40rem;
+    display: inline-block;
+    margin: 1rem 1.4rem 1rem 1.4rem;
+  }
+
+  .item-2{
+    background-image: url("images/wywshirt2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40rem;
+    width: 40rem;
+    display: inline-block;
+    margin: 1rem 1.4rem 1rem 1.4rem;
+  }
+
+
+  .item-1:hover{
+    opacity:0.5;
+    transition: 0.14s;
+  }
+
+
+  .item-2:hover{
+    opacity:0.5;
+    transition: 0.14s;
+  }
+
+  .checkout{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+  .band-members{
+    font-size: 2rem;
+    font-style: italic;
+    margin: 2rem 0rem 2rem 0rem;
+  }
+
+
+
+  .checkout{
+    padding: 4rem 0rem 0rem 0rem;
+    width: 100%;
+  }
+
+  .checkout-center{
+    margin: 0% 33%;
+    text-align: center;
+  }
+
+  .checkout-center2{
+    margin: 1rem;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .photo1{
+    background-image: url("images/photo1.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 17rem;
+    width: 17rem;
+    display: inline-block;
+    margin: 0rem 2rem;
+  }
+
+  .photo2{
+    background-image: url("images/photo2.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 17rem;
+    width: 17rem;
+    display: inline-block;
+    margin: 0rem 2rem;
+  }
+
+  .photo3{
+    background-image: url("images/photo3.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 17rem;
+    width: 17rem;
+    display: inline-block;
+    margin: 0rem 2rem;
+  }
+
+  .photo4{
+    background-image: url("images/photo6.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 17rem;
+    width: 17rem;
+    display: inline-block;
+    margin: 0rem 2rem;
+  }
+
+  .photo5{
+    background-image: url("images/photo5.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 17rem;
+    width: 17rem;
+    display: inline-block;
+    margin: 0rem 2rem;
+  }
+
+  .photo6{
+    background-image: url("images/photo4.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 17rem;
+    width: 17rem;
+    display: inline-block;
+    margin: 0rem 2rem;
+  }
+
+
+  .description{
+    border: solid 1px blue;
+  }
+
+  .description:hover{
+    cursor:pointer;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    cursor: pointer;
+    font-family: cinetype;
+    font-size: 14px;
+
+  }
+
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    cursor: pointer;
+    padding: 5px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
