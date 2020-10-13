@@ -147,7 +147,6 @@
 
 
   .page-content-music{
-    margin: 4rem 0rem 0rem 0rem;
     width: 100%;
     text-align: center;
   }
@@ -402,7 +401,12 @@
     cursor: pointer;
   }
 
-
+  .mobile-text{
+    font-family: times new roman;
+    position: static;
+    display: default;
+    opacity: 1;
+  }
 
 
 

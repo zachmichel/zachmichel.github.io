@@ -410,7 +410,11 @@
 
 
 
-
+.mobile-text{
+display: inline-block;
+position: absolute;
+opacity: 0;
+}
 
 
 
